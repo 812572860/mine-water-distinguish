@@ -1,0 +1,52 @@
+//
+@import './variables.scss';
+
+*,
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+    cursor: default;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    color: $color-dark;
+    font-family: 'Lato', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-size: 1.6em;
+    font-weight: 300;
+    letter-spacing: .01em;
+    line-height: 1.6;
+    background:
+        radial-gradient(
+            ellipse at center,
+            rgba(255, 255, 255, 1) 0%,
+            rgba(229, 229, 229, .85) 100%
+        );
+    background-position: center;
+    height: 100%;
+    width: 100%;
+}
+
+#app {
+  height: 100%;
+  width: 100%;
+}
+
+.el-date-editor.el-input, .el-date-editor.el-input__inner,.el-select,.el-input-number {
+    width: 100%;
+}
+
+.l-form {
+  position: relative;
+  width: 100%;
+  height: auto;
+}

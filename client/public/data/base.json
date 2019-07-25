@@ -1,0 +1,419 @@
+[
+  {
+    "id": 11,
+    "type": "mine",
+    "name": "一矿",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 12,
+    "type": "mine",
+    "name": "二矿",
+    "sort": 2,
+    "remark": ""
+  },
+  {
+    "id": 13,
+    "type": "mine",
+    "name": "四矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 14,
+    "type": "mine",
+    "name": "五矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 15,
+    "type": "mine",
+    "name": "六矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 16,
+    "type": "mine",
+    "name": "八矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 17,
+    "type": "mine",
+    "name": "九矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 18,
+    "type": "mine",
+    "name": "十矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 19,
+    "type": "mine",
+    "name": "十一矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 110,
+    "type": "mine",
+    "name": "十二矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 111,
+    "type": "mine",
+    "name": "十三矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 112,
+    "type": "mine",
+    "name": "吴寨矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 113,
+    "type": "mine",
+    "name": "香山矿",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 114,
+    "type": "mine",
+    "name": "其他",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 21,
+    "type": "aquifer",
+    "name": "寒武系灰岩",
+    "code": "",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 22,
+    "type": "aquifer",
+    "name": "太原组七灰",
+    "code": "",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 23,
+    "type": "aquifer",
+    "name": "太原组二灰",
+    "code": "",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 24,
+    "type": "aquifer",
+    "name": "二叠系砂岩",
+    "code": "",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 25,
+    "type": "aquifer",
+    "name": "平顶山砂岩",
+    "sort": 2,
+    "remark": ""
+  },
+  {
+    "id": 26,
+    "type": "aquifer",
+    "name": "第三系泥灰岩",
+    "code": "",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 27,
+    "type": "aquifer",
+    "name": "第四系松三层",
+    "code": "",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 28,
+    "type": "aquifer",
+    "name": "其他",
+    "code": "",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 31,
+    "type": "mineLayer",
+    "name": "己组煤（二1-2煤）",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 32,
+    "type": "mineLayer",
+    "name": "庚组煤（一5煤）",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 33,
+    "type": "mineLayer",
+    "name": "戊组煤（四2-3煤）",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 34,
+    "type": "mineLayer",
+    "name": "丁组煤（五2煤）",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 35,
+    "type": "mineLayer",
+    "name": "丙组煤（六2煤）",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 41,
+    "type": "mineLevel",
+    "name": "一水平",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 42,
+    "type": "mineLevel",
+    "name": "二水平",
+    "sort": 2,
+    "remark": ""
+  },
+  {
+    "id": 43,
+    "type": "mineLevel",
+    "name": "三水平",
+    "sort": 2,
+    "remark": ""
+  },
+  {
+    "id": 44,
+    "type": "mineLevel",
+    "name": "四水平",
+    "sort": 2,
+    "remark": ""
+  },
+  {
+    "id": 45,
+    "type": "mineLevel",
+    "name": "深部",
+    "sort": 2,
+    "remark": ""
+  },
+  {
+    "id": 46,
+    "type": "mineLevel",
+    "name": "浅部",
+    "sort": 2,
+    "remark": ""
+  },
+  {
+    "id": 51,
+    "type": "sampleCharacter",
+    "name": "顶板水",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 52,
+    "type": "sampleCharacter",
+    "name": "底板水",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 53,
+    "type": "sampleCharacter",
+    "name": "钻孔水",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 54,
+    "type": "sampleCharacter",
+    "name": "井筒水",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 55,
+    "type": "sampleCharacter",
+    "name": "水仓水",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 56,
+    "type": "sampleCharacter",
+    "name": "混合水",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 57,
+    "type": "sampleCharacter",
+    "name": "地表水",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 58,
+    "type": "sampleCharacter",
+    "name": "臭鸡蛋味水",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 59,
+    "type": "sampleCharacter",
+    "name": "民井水",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 510,
+    "type": "sampleCharacter",
+    "name": "雨雪水",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 511,
+    "type": "sampleCharacter",
+    "name": "泉水",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 512,
+    "type": "sampleCharacter",
+    "name": "放水孔水",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 513,
+    "type": "sampleCharacter",
+    "name": "老空水",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 514,
+    "type": "sampleCharacter",
+    "name": "其他",
+    "sort": 3,
+    "remark": ""
+  },
+  {
+    "id": 61,
+    "type": "sampleSource",
+    "name": "寒灰水",
+    "code": "∈",
+    "color": "#9F0050",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 62,
+    "type": "sampleSource",
+    "name": "七灰水",
+    "code": "L7",
+    "color": "#ef5309",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 63,
+    "type": "sampleSource",
+    "name": "二灰水",
+    "code": "L2",
+    "color": "#ffaad5",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 64,
+    "type": "sampleSource",
+    "name": "砂岩水",
+    "code": "P",
+    "color": "#F9F900",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 65,
+    "type": "sampleSource",
+    "name": "老空水",
+    "code": "LK",
+    "color": "#00DB00",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 66,
+    "type": "sampleSource",
+    "name": "混合水、生产水、泥灰岩水",
+    "code": "N",
+    "color": "#00FFFF",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 69,
+    "type": "sampleSource",
+    "name": "空隙水",
+    "code": "Q",
+    "color": "#6A6AFF",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 610,
+    "type": "sampleSource",
+    "name": "河水、水库水",
+    "code": "SW",
+    "color": "#B766AD",
+    "sort": 1,
+    "remark": ""
+  },
+  {
+    "id": 611,
+    "type": "sampleSource",
+    "name": "其他",
+    "code": "",
+    "color": "grey",
+    "sort": 1,
+    "remark": ""
+  }
+]

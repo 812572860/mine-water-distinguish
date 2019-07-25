@@ -1,0 +1,85 @@
+[
+  [
+    {
+      "id": 1,
+      "name": "Piper三线图",
+      "code": "piper",
+      "icon": "heat-map",
+      "url": "/chart"
+    },
+    {
+      "id": 2,
+      "name": "模型判别",
+      "code": "distinguish",
+      "icon": "check-square",
+      "url": "/distinguishModel"
+    },
+    {
+      "id": 3,
+      "name": "数据管理",
+      "code": "manager",
+      "icon": "database",
+      "children": [
+        {
+          "id": 31,
+          "name": "待判水样管理",
+          "code": "pendingSample",
+          "icon": "hdd",
+          "url": "/pendingData"
+        },
+        {
+          "id": 32,
+          "name": "标准水样库管理",
+          "code": "standardSample",
+          "icon": "hdd",
+          "url": "/standardData"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "用户管理",
+      "code": "user",
+      "icon": "team",
+      "url": "/user"
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "name": "Piper三线图",
+      "code": "piper",
+      "icon": "heat-map",
+      "url": "/chart"
+    },
+    {
+      "id": 2,
+      "name": "模型判别",
+      "code": "distinguish",
+      "icon": "check-square",
+      "url": "/distinguishModel"
+    },
+    {
+      "id": 3,
+      "name": "数据管理",
+      "code": "manager",
+      "icon": "database",
+      "children": [
+        {
+          "id": 31,
+          "name": "待判水样管理",
+          "code": "pendingSample",
+          "icon": "hdd",
+          "url": "/pendingData"
+        },
+        {
+          "id": 32,
+          "name": "标准水样库管理",
+          "code": "standardSample",
+          "icon": "hdd",
+          "url": "/standardData"
+        }
+      ]
+    }
+  ]
+]
